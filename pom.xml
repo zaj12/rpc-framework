@@ -11,6 +11,7 @@
     <modules>
         <module>netty-practice</module>
         <module>rpc-framework-simple</module>
+        <module>rpc-framwork-common</module>
     </modules>
 
     <properties>
