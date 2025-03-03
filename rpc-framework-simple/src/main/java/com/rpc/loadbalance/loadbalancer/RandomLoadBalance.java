@@ -1,4 +1,4 @@
-package com.rpc.loadbalance.loadbalance;
+package com.rpc.loadbalance.loadbalancer;
 
 import com.rpc.loadbalance.AbstractLoadBalance;
 import com.rpc.remoting.dto.RpcRequest;

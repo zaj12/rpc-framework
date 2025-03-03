@@ -19,7 +19,7 @@ public class RpcServiceConfig {
     private Object service;
 
     public String getRpcServiceName() {
-        return this.getRpcServiceName() + this.getGroup() + this.getVersion();
+        return this.getServiceName() + this.getGroup() + this.getVersion();
     }
 
     public String getServiceName() {
