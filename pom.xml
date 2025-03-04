@@ -12,6 +12,9 @@
         <module>netty-practice</module>
         <module>rpc-framework-simple</module>
         <module>rpc-framwork-common</module>
+        <module>hello-service-api</module>
+        <module>example-client</module>
+        <module>example-server</module>
     </modules>
 
     <properties>
